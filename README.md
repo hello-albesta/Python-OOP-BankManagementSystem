@@ -2,7 +2,7 @@
   <img src="/assets/header_hello-albesta_github_profile_en.svg" alt="❤️Hi, my name is Daniel D. Albesta. I'm a data enthusiast from Indonesia. I love you all XOXO.❤️">
 </div>
 
-### 🤯 ABOUT BANK MANAGEMENT SYSTEM PROJECT 🤯
+### 🤯 ABOUT THE BANK MANAGEMENT SYSTEM PROJECT 🤯
 
 <div align="right">
   <table align="right">
